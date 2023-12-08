@@ -1,0 +1,14 @@
+C:\dev\Grifo\obj\Debug\net7.0\Grifo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Grifo\obj\Debug\net7.0\Grifo.AssemblyInfoInputs.cache
+C:\dev\Grifo\obj\Debug\net7.0\Grifo.AssemblyInfo.cs
+C:\dev\Grifo\obj\Debug\net7.0\Grifo.csproj.CoreCompileInputs.cache
+C:\dev\Grifo\bin\Debug\net7.0\Grifo.exe
+C:\dev\Grifo\bin\Debug\net7.0\Grifo.deps.json
+C:\dev\Grifo\bin\Debug\net7.0\Grifo.runtimeconfig.json
+C:\dev\Grifo\bin\Debug\net7.0\Grifo.dll
+C:\dev\Grifo\bin\Debug\net7.0\Grifo.pdb
+C:\dev\Grifo\obj\Debug\net7.0\Grifo.dll
+C:\dev\Grifo\obj\Debug\net7.0\refint\Grifo.dll
+C:\dev\Grifo\obj\Debug\net7.0\Grifo.pdb
+C:\dev\Grifo\obj\Debug\net7.0\Grifo.genruntimeconfig.cache
+C:\dev\Grifo\obj\Debug\net7.0\ref\Grifo.dll
